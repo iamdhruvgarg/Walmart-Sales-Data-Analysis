@@ -71,20 +71,20 @@ The dataset consists of **17 columns** and includes sales transactions from **th
 ## Questions List - 
 
 # 🏙️ Generic
-How many unique cities does the data have?
+1. How many unique cities does the data have?
 
-In which city is each branch?
+2. In which city is each branch?
 
 # 🛍️ Product
-How many unique product lines does the data have?
+1. How many unique product lines does the data have?
 
-What is the most common payment method?
+2. What is the most common payment method?
 
-What is the most selling product line?
+3. What is the most selling product line?
 
-What is the total revenue by month?
+4. What is the total revenue by month?
 
-What month had the largest COGS?
+5. What month had the largest COGS?
 
 What product line had the largest revenue?
 
